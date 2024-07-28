@@ -17,7 +17,7 @@ const date =
 for (let n = 0; n < settings.products.length; n++) {
   // Get the price
   getPrice(settings, n).then((price) => {
-    // Save the price to an output file .csv
+    // Save the price to an output file Price-Tracker.csv
     fs.appendFile(
       `./output/Price-Tracker.csv`,
       `${date},${settings.products[n].siteName},${settings.products[n].productQuantity},${price}\n`,
