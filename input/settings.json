@@ -1,0 +1,13 @@
+{
+  "currencySymbol": "₹",
+  "decimalSeparator": ",",
+  "products": [
+    {
+      "siteName": "amazon.in",
+      "productName": "Oneplus",
+      "productQuantity": 1,
+      "productURL": "https://www.amazon.in/Oneplus-Nord-Chrome-256GB-Storage/dp/B0CX5BZXLF?ref=dlx_deals_dg_dcl_B0CX5BZXLF_dt_sl10_8a&th=1",
+      "cssSelector": "#corePriceDisplay_desktop_feature_div > div.a-section.a-spacing-none.aok-align-center.aok-relative > span.a-price.aok-align-center.reinventPricePriceToPayMargin.priceToPay > span:nth-child(2) > span.a-price-whole"
+    }
+  ]
+}
